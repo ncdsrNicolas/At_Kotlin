@@ -1,0 +1,11 @@
+Nicolas S. - DSM 4
+
+1. Os pilares do Material Design são metáfora do material, movimento significativo e design adaptável. Eles garantem consistência visual, usabilidade intuitiva e experiência fluida.
+
+2. EditText é o campo padrão de texto. TextInputEditText é usado dentro de TextInputLayout para recursos como labels flutuantes e mensagens de erro. EditText serve para casos simples, TextInputEditText para interfaces modernas com validação.
+
+3. O CoordinatorLayout coordena interações entre componentes, permitindo comportamentos dinâmicos como esconder a Toolbar ao rolar ou mover o FAB em resposta a SnackBars.
+
+4. SnackBars servem para feedback rápido ao usuário sem interromper a interação, como avisar Item excluído, Arquivo enviado ou Falha na conexão.
+
+5. O BottomNavigationView facilita navegação até 5 seções principais, é acessível, consistente com Material Design, claro e moderno para o usuário.
